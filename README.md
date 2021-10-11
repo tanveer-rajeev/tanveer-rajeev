@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning distributing systems and microservices
+- 🌱 I’m currently working on Spring Boot,Spring Security, ReactJs
 - 🥅 2021 Goals: Cloud computing, Microservice Architechture.
 
 
