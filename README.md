@@ -1,4 +1,4 @@
-### Hi there, I'm  [Tanveer Ahmed] 👋
+### Hi there 👋
 
 
 - 🌱 I’m currently learning distributing systems and microservices
