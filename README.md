@@ -1,14 +1,9 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently working on reactive programming, spring cloud and microservices
+- 🌱 As a full-stack developer I have been working with Spring boot and ReactJs. I am available for any contribution to explore myself.
 - 🥅 2021 Goals: Open source contribution, Cloud computing, Microservice Architechture.
 
-
-
-### 📖 About me
-
-As a full-stack developer I have been working with Spring boot and ReactJs. I am available for any contribution to explore myself.
 
 <br/>
 
