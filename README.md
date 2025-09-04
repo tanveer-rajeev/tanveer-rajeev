@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 As a full-stack developer I have been working with Spring boot and ReactJs. I am available for any contribution to explore myself.
-- 🥅 2021 Goals: Open source contribution, Cloud computing, Microservice Architechture.
+- 🌱 I’m a backend developer who loves building reliable and maintainable applications. I work mostly with Java, Spring Boot, and microservices, following DDD, SOLID principles, and hexagonal and event-driven architecture to create scalable code with clean and easy to extend.
 
 
 <br/>
