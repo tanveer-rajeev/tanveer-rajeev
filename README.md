@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 
-- 🌱 I’m a backend developer who loves building reliable and maintainable applications. I work mostly with Java, Spring Boot, and microservices, following DDD, SOLID principles, and hexagonal and event-driven architecture to create scalable code with clean and easy to extend.
+- 🌱 Java Backend Engineer focused on scalable microservices, event-driven architecture, and AI-powered applications.
+
+Building with Spring Boot, Kafka, Docker, Kubernetes, and Spring AI.
+
+Interested in distributed systems, clean architecture, and backend performance engineering.
 
 
 <br/>
